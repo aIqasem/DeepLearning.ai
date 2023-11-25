@@ -1,18 +1,16 @@
-> My Documentation for my studies on [DeepLearning.ai](https://www.deeplearning.ai/)
-
----
+> Documentation for my studies on [DeepLearning.ai](https://www.deeplearning.ai/)
 
 <br>
 <br>
 
-- Introductory level has 5 studies
-    1. Machine Learning Specialization
-    2. Mathematics for Machine Learning and Data Science Specialization
-    3. AI for Everyone
-    4. AI for Good
-    5. Generative AI for Everyone
+- __Introductory level has 5 studies__
+    - _Machine Learning Specialization<br>_
+    - Mathematics for Machine Learning and Data Science Specialization<br>
+    - AI for Everyone<br>
+    - AI for Good<br>
+    - Generative AI for Everyone<br>
 
 <br>
 
-- Current Study
-    1. Machine Learning Specialization
+- __Current Study__
+    - _Machine Learning Specialization_
