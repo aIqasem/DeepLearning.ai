@@ -2,11 +2,11 @@
 >
 
  - Supervised Machine Learning - Regression and Classification
- - _Advanced Learning Algorithms_
+ - Advanced Learning Algorithms
  - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 <br>
 <br>
 
 > __Current Study__
-  - _Advanced Learning Algorithms_
+  - _Unsupervised Learning, Recommenders, Reinforcement Learning_
