@@ -3,7 +3,7 @@
 
  - Supervised Machine Learning - Regression and Classification
  - Advanced Learning Algorithms
- - Unsupervised Learning, Recommenders, Reinforcement Learning
+ - _Unsupervised Learning, Recommenders, Reinforcement Learning_
 
 <br>
 <br>
