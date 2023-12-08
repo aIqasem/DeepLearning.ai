@@ -9,7 +9,10 @@
 <br>
 
 > __Current Study__
-  - Done
+  - Done.
+
+<br>
+<br>
 
 > __Current Summary-to-add__
   - _Supervised Machine Learning - Regression and Classification_
