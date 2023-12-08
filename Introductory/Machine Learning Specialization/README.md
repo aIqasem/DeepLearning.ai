@@ -1,17 +1,15 @@
 > __Machine Learning Specialization is 3 courses__
 >
 
- - Supervised Machine Learning - Regression and Classification
+ - _Supervised Machine Learning - Regression and Classification_
  - Advanced Learning Algorithms
- - _Unsupervised Learning, Recommenders, Reinforcement Learning_
+ - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 <br>
 <br>
 
 > __Current Study__
-  - _Unsupervised Learning, Recommenders, Reinforcement Learning_
+  - Done
 
-<br>
-<br>
-
-> __Content (Documentation) for these 3 courses will be added after finishing this specialization__.
+> __Current Summary-to-add__
+  - _Supervised Machine Learning - Regression and Classification_
